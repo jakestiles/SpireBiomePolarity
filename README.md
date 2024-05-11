@@ -8,4 +8,6 @@ A Slay the Spire mod idea, meant for the Spire Biomes mod
 
 **Biome Name:** Polarity
 
-**Central idea/theme:** Big upsides and big downsides, both temporary and permanent
+**Central idea/theme:** Upsides and downsides
+
+**In-game biome description:** There are two sides to every coin. What may fate have in store for you today?
