@@ -30,9 +30,9 @@ A Slay the Spire mod idea, meant for the Spire Biomes mod
 
 **Question marks:**
 
-First question mark in the biome: New event named "Forever changed": Choose a permanent downside (choice of 2) then choose a permanent upside (choice of 2). First question mark per run in this biome is guaranteed to be "Forever changed" then the event is disabled. See below for possible choices.
+- First question mark in the biome: New event named "Forever Changed": Choose a permanent downside (choice of 2) then choose a permanent upside (choice of 2). First question mark per run in this biome is guaranteed to be "Forever Changed" then the event is disabled. See below for possible choices.
 
-Subsequent question marks in the biome: 1/3 chance of Elite fight, 1/3 chance of Treasure room, 1/3 chance of Wheel of Change event
+- Subsequent question marks in the biome: 1/3 chance of Elite fight, 1/3 chance of Treasure room, 1/3 chance of Wheel of Change event
 
 **Forever Changed Event, upsides:**
 
