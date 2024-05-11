@@ -4,7 +4,7 @@
 
 **Biome Name:** Polarity
 
-**Central idea/theme:** Big upsides and big downsides, both temporary and permanent
+**Central idea/theme:** Changed effects that come with both upsides and downsides
 
 **Node effects:**
 
