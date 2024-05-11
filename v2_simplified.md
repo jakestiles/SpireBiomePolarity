@@ -2,7 +2,7 @@
 
 **Node effects:**
 
-  **Combats (normal and elite)**: Gain the unique buff "Strange ideas": At the start of each turn, shuffle 1 wounds and 1 random cards that costs 1 energy or more, discounted to 0 energy, into your draw pile.
+  **Combats (normal and elite)**: Gain the unique buff "Strange ideas": At the start of each turn, shuffle 1 wound and 1 random card that costs 1 energy or more, discounted to 0 energy, into your draw pile.
  
 **Card rewards**: Card rewards are all uncommon and upgraded, but cost 3 max health to take.
 
