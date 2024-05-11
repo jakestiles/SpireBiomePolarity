@@ -10,6 +10,8 @@ A Slay the Spire mod idea, meant for the Spire Biomes mod
 
 **Central idea/theme:** Big upsides and big downsides, both temporary and permanent
 
+**Biome size details:** Should include at least one question mark since Forever Changed is a big portion of why this Biome exists.
+
 **Node effects:**
 
 **Combats (normal and elite)**: Before each combat, gain 1 random temporary upside and 1 random temporary downside that will take effect for only that combat. (Preferable: You can't be given anything you've been given before during this run.) Value of X is always the Act Number. 
@@ -68,4 +70,4 @@ Gain Date with Destiny, unique relic: At the start of each combat, gain Fading 7
 
 Gain Bag of Holding, unique relic: When you would add a non-Curse card to your deck, add it to the Bag of Holding instead. If the Bag has 2 cards already, take a random card from the Bag before adding the current card.
 
-Biome size details: Should include at least one question mark since Forever Changed is a big portion of why this Biome exists.
+
