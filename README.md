@@ -4,7 +4,7 @@ A Slay the Spire mod idea, meant for the Spire Biomes mod
 
 **Usage:** Please do not use these ideas without asking. Discord name: jakestiles
 
-**Contributor(s) request:** I need someone who wants to do the coding work and help with art and help with design/balancing
+**Contributor(s) request:** Seeking partner/contributor (preferably with Biomes mod experience since I am a Biomes noob and have never coded a mod). Looking for someone who can help with coding work and art and design/balancing
 
 **Biome Name:** Polarity
 
