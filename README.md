@@ -26,7 +26,7 @@ A Slay the Spire mod idea, meant for the Spire Biomes mod
 
 **Treasure rooms**: All treasure chests have 50% chance of having A) rare relics, but no money. or B) no relics (blue key still present), but guaranteed money and triple the amount of it.
 
-**Fires**: Healing heals to full but costs 5 max health (Night Terrors). Smithing upgrades 2 cards but chooses them at random.
+**Fires**: Resting heals to full but costs 5 max health (Night Terrors). Smithing upgrades 2 cards but chooses them at random.
 
 **Question marks:**
 
